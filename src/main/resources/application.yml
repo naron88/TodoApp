@@ -1,0 +1,7 @@
+spring:
+  mvc:
+    contentnegotiation:
+      favor-parameter: false
+      ignore-accept-header: false
+      media-types:
+        json: application/json
